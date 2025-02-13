@@ -23,8 +23,8 @@
 3. Asociar el kanban al repositorio correspondiente de la práctica.
 ![project board workflow](docs/asociar_kanban.jpg)
 4. Una vez finalizado el kanban actualizar las columnas.
-![project board kanban finalizado](docs/kanbak_final.jpg)
+![project board kanban finalizado](docs/kanban_final.jpg)
 
 ## Solicitar el GitHub Student Pack
 
-![github student packl](docs/backpack.jpg)
+![github student pack](docs/github_student.jpg)
